@@ -1,3 +1,4 @@
+
 #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -38,7 +39,6 @@ int main(void) {
     }
   }
 }
-
 float mc_pi(int n){
   float x,y;
   int i=0,circle=0;
@@ -70,7 +70,7 @@ float mc_pi(int n){
  pi=(float)4*circle/square;
  return pi;
    
-  }
-
-
-
+    
+  
+  
+}
